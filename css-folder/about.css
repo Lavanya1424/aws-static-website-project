@@ -1,0 +1,20 @@
+body {
+    background-color: #fff4cc;
+    text-align: center;
+    font-family: Arial;
+    margin-top: 50px;
+}
+
+h1 {
+    color: green;
+}
+
+p {
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+}
